@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d527f18-386e-4fd8-827e-04d7baae31c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wsenset/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsenset/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsenset/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsenset/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wsenset/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsenset/src/main/java/ServiceJWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/wsenset/src/main/java/ServiceJWS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsenset/src/main/java/ws/BanqueService.java" beforeDir="false" afterPath="$PROJECT_DIR$/wsenset/src/main/java/ws/BanqueService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsenset/src/main/java/ws/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/wsenset/src/main/java/ws/Compte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wsenset" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2GmN8VcOaNTkQhYA3Q5rbmwSqwe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,7 +36,7 @@
       <updated>1666989640743</updated>
       <workItem from="1666989643233" duration="139000" />
       <workItem from="1666989840053" duration="86000" />
-      <workItem from="1666989934836" duration="328000" />
+      <workItem from="1666989934836" duration="1065000" />
     </task>
     <servers />
   </component>
